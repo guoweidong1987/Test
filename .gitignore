@@ -1,0 +1,15 @@
+/*
+!.github/
+!/Assets/
+/Assets/_Game/Address/Hotfix/
+!/Config/
+!/Packages/
+!/ProjectSettings/
+/ProjectSettings/ProjectVersion.txt
+!.editorconfig
+!.gitattributes
+!.gitignore
+!.gitmodules
+
+*.unitypackage
+*.unitypackage.meta
