@@ -10,6 +10,7 @@
 !.gitattributes
 !.gitignore
 !.gitmodules
+!README.md
 
 *.unitypackage
 *.unitypackage.meta
